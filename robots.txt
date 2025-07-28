@@ -1,0 +1,7 @@
+# robots.txt for BGM Solution
+# Indica ai motori di ricerca di indicizzare l'intero sito
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.bgm-solution.it/sitemap.xml
